@@ -1,0 +1,8 @@
+{
+  "name": "USAE Helpdesk",
+  "description": "Sistema institucional de mesa de ayuda (tickets SLA P1-P4), inventario de activos informáticos (EQP), clientes corporativos, planes de servicio MXN y auditoría operativa para USAE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
